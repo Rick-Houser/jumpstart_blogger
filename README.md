@@ -1,5 +1,7 @@
 # Jumpstart Labs - Blogger App
 
+##[Project Link](http://tutorials.jumpstartlab.com/projects/blogger.html) 
+
 In this project you’ll create a simple blog system and learn the basics of Ruby on Rails including:
 
 * Models, Views, and Controllers (MVC)
