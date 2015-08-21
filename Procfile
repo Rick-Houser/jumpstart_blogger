@@ -1,1 +1,1 @@
-web: bundle exec unicorn -p $PORT -c ./config/unicorn.rb
+bin/rails server -p $PORT -e $RAILS_ENV
