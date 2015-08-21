@@ -4,6 +4,7 @@ ruby '2.2.0'
 group :production do
 	gem 'pg'
 	gem 'rails_12factor'
+	gem 'puma', '~> 2.13.4'
 end
 
 gem 'rails', '4.2.2'
